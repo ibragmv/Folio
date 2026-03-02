@@ -5,6 +5,6 @@
 ## *Folio (This Website)*
 ## 2026
 
-### • TypeScript, WebGL,
-### • Shader Language, Web Dev
-The project was born out of a desire to create a unique personal resume that stands out from traditional formats. Built using TypeScript and THREE.js, it features an interactive 3D retro computer environment, a custom UNIX shell simulation, a basic file system, and a dedicated engine for rendering markdown and managing text layouts.
+### • TypeScript, WGLSL,
+### • Shader Language, Creative Dev
+A reimagined digital CV that transforms professional history into an interactive 3D experience. Folio features a retro-computer interface complete with a custom UNIX-like shell, a virtual file system, and an optimized engine for rendering markdown in a 3D environment. It is a fusion of low-level simulation and modern web performance.
